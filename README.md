@@ -26,4 +26,4 @@ To run the Credit Card Validator, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/ganeshmedichelimala/creditCard_validator.git
