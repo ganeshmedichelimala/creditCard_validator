@@ -9,9 +9,6 @@ This project is a simple credit card number validator that checks the validity o
   - [Description](#description)
   - [Features](#features)
   - [Installation](#installation)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [License](#license)
 
 ## Description
 
