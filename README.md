@@ -1,10 +1,10 @@
-# Project Title
+# Credit Card Validator
 
-Brief description of what the project does.
+This project is a simple credit card number validator that checks the validity of a credit card number using the Luhn algorithm.
 
 ## Table of Contents
 
-- [Project Title](#project-title)
+- [Credit Card Validator](#credit-card-validator)
   - [Table of Contents](#table-of-contents)
   - [Description](#description)
   - [Features](#features)
@@ -15,17 +15,18 @@ Brief description of what the project does.
 
 ## Description
 
-Provide a more detailed description of your project here. Include its purpose, main features, and any other relevant information that would help someone understand the project quickly.
+The Credit Card Validator is a console application that validates credit card numbers based on the Luhn algorithm. It calculates the sum of even and odd positioned digits in the card number and checks if the result is divisible by 10 to determine the validity of the card number.
 
 ## Features
 
-- List the key features or functionalities of your project.
-- Use bullet points to make it easy to scan.
+- Validates credit card numbers using the Luhn algorithm.
+- Simple console-based user interface.
+- Easy to integrate with other applications.
 
 ## Installation
 
-Provide step-by-step instructions on how to install and set up your project. Include any dependencies that need to be installed and how to install them.
+To run the Credit Card Validator, follow these steps:
 
-```bash
-# Example installation steps
-git clone https://github.com/ganeshmedichelimala/creditCard_validator.git
+1. Clone the repository:
+   ```bash
+   git clone 
